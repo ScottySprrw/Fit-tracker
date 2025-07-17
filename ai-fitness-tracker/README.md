@@ -1,6 +1,8 @@
-# AI Fitness Tracker
+# FitTracker Pro - Modern Exercise Tracking App
 
-A modern web application for personal trainers to manage and monitor client progress with AI-powered exercise tracking.
+🚀 **Live Demo**: https://scottysprrw.github.io/Fit-tracker/
+
+A professional, trainer-facing exercise tracking application built with React, TailwindCSS, and modern web technologies. This is a complete refactor of the original AI Fitness Tracker with a modern tech stack and improved user experience.
 
 ## Features
 
